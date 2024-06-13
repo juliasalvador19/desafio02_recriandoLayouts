@@ -1,0 +1,58 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: "Open Sans", sans-serif;
+}
+
+#info {
+    width: 626px;
+    margin: 64px auto;
+}
+
+#info img {
+    margin-bottom: 32px;
+}
+
+#info h1 {
+    margin-top: 0;
+    margin-bottom: 16px;
+    font-family: "Dosis", sans-serif;
+    font-weight: 400;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
+}
+
+#info h1 span {
+    color: #EE24FF;
+    font-weight: 700;
+}
+
+#info p {
+    margin-bottom: 32px;
+}
+
+#info p #company {
+    color: #828282;
+}
+
+.line {
+    width: 391px;
+    border: 1px solid #ECEFF2;
+    margin: 32px auto 16px;
+}
+
+footer a {
+    text-decoration: none;
+    color: #3F3D56;
+    font-weight: bold;
+}
+
+footer a + a {
+    margin-left: 42px;
+}
+
+#wave {
+    position: absolute;
+    width: 100%;
+    left: 0;
+    margin-top: 40px;
+}
